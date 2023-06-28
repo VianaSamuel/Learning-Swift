@@ -29,9 +29,13 @@ A iniciativa é executada pelo **Instituto de Pesquisas Eldorado**, com coordena
 ![SongPlayer - Protótipo do Spotify](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/songplayer.gif)
 <br><br>
 
+<h1></h1>
+
 ## Mapas - Países do BRICS
 ![Mapas - Países do BRICS](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/mapas.gif)
 <br><br>
+
+<h1></h1>
 
 ## Calculadora de IMC
 ![Calculadora de IMC](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/calculadoraimc.gif)
