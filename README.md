@@ -4,7 +4,7 @@
 # HackaTruck MakerSpace
 ### Participação realizada durante meu 3º período da faculdade.
 <br>
- <img src="https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/hackatruck.png"/>
+ <img src="assets/hackatruck.png"/>
 </div>
 
 ## Apresentação
@@ -26,17 +26,17 @@ A capacitação profissional tecnológica do **Hackatruck MakerSpace** se inicia
 </div>
 
 ## SongPlayer - Protótipo do Spotify
-![SongPlayer - Protótipo do Spotify](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/songplayer.gif)
+![SongPlayer - Protótipo do Spotify](assets/songplayer.gif)
 <br><br>
 
 <h1></h1>
 
 ## Mapas - Países do BRICS
-![Mapas - Países do BRICS](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/mapas.gif)
+![Mapas - Países do BRICS](assets/mapas.gif)
 <br><br>
 
 <h1></h1>
 
 ## Calculadora de IMC
-![Calculadora de IMC](https://github.com/VianaSamuel/Learning-Swift/blob/main/assets/calculadoraimc.gif)
+![Calculadora de IMC](assets/calculadoraimc.gif)
 <br><br>
